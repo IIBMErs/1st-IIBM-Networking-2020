@@ -47,4 +47,4 @@ The schedule is still tentative.
 
 ## Organizators
 
-This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering (IIBM)[https://ingenieriabiologicaymedica.uc.cl/en/]. You can contact us using GitHub issues.
+This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering [IIBM](https://ingenieriabiologicaymedica.uc.cl/en/). You can contact us using GitHub issues.
