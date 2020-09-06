@@ -1,24 +1,28 @@
 ## Welcome to the 1st IIBM Networking 2020
 
-Networking description
-
-You can use the [editor on GitHub](https://github.com/IIBMErs/1st-IIBM-Networking-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The "1st IIBM Networking 2020" is an instance to know each others research to increase interdisciplinary colaborations. This networking is also aimed 
 
 ## Register
 
 ### Postgraduate 
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)
 
+The postgraduate format is a 3 slides 3 minutes presentation.
+
 ### Undergraduate
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link)
+
+The undergraduate format is a 1 slide 1 minute presentation.
 
 ### Breakout room proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
+A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and topic future. Breakout rooms will count with moderators that will stay in that room and other assistants can explore, join and stay in all available rooms. 
+
 ### Workshop proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
+
+Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants con join to available workshops during the networking.
 
 ## Schedule
 
@@ -38,44 +42,9 @@ Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRd
 |General breakout room and awards!|17:30-18:00|
 |Final words and Farewell|18:00-18:15|
 
+The schedule is still tentative.
 
 
+## Organizators
 
-
-
-
-
-
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IIBMErs/1st-IIBM-Networking-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering (IIBM)[https://ingenieriabiologicaymedica.uc.cl/en/]. You can contact us using GitHub issues.
