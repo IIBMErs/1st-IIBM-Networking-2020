@@ -1,2 +1,2 @@
-# 1st-IIBM-Networking-2020
-1st IIBM Networking 2020 organization
+# 1st IIBM Networking 2020
+Connecting fields for interdisciplinary research 
