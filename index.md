@@ -1,6 +1,6 @@
 ## Welcome to the 1st IIBM Networking 2020
 
-The "1st IIBM Networking 2020" is an instance to know each others research to increase interdisciplinary colaborations. 
+The "1st IIBM Networking 2020" is an instance to know each others research and increase interdisciplinary colaborations. 
 
 ## Register
 
@@ -42,7 +42,12 @@ Workshops will take place after the networking, and are really flexible being th
 |General breakout room and awards!|17:30-18:00|
 |Final words and Farewell|18:00-18:15|
 
-The schedule is still tentative.
+The schedule is tentative.
+
+## Platforms
+
+The networking will take place virtually via [Zoom](https://zoom.us/).
+And will be public streamed and available via [IIBMErs YouTube channel]()
 
 
 ## Organizators
