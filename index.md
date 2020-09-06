@@ -1,6 +1,6 @@
 ## Welcome to the 1st IIBM Networking 2020
 
-The "1st IIBM Networking 2020" is an instance to know each others research to increase interdisciplinary colaborations. This networking is also aimed 
+The "1st IIBM Networking 2020" is an instance to know each others research to increase interdisciplinary colaborations. 
 
 ## Register
 
