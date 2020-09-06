@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Register
 
 ### Postgraduate 
-Fill this[Form](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)
 
 ### Undergraduate
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link)
@@ -26,14 +26,11 @@ Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRd
 |---|-----|
 |Start, Welcome to the event!|9:30-9:40|
 |IIBM Introduction|9:40-10|
-|Presentations Block 1
-(keynote speaker and postgraduate presentations)|10:00-11:15|
+|Presentations Block 1 (keynote speaker and postgraduate presentations)|10:00-11:15|
 |Break|11:15-11:30|
-|Presentations Block 2
-(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
+|Presentations Block 2 (keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
 |Lunch|13:00-14:00|
-|Presentations block 3
-(keynote speaker, postgraduate presentations)| 14:00-15:30|
+|Presentations block 3 (keynote speaker, postgraduate presentations)| 14:00-15:30|
 |Break|15:30-15:45|
 |Parallel Breakout Rooms discussion groups 1|15:45-16:30|
 |Break|16:30-16:45|
