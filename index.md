@@ -26,7 +26,7 @@ Workshops will take place after the networking, and are really flexible being th
 
 ## Schedule
 
-|**Activity**|Time (UTC-4)|
+|**Activity**|Time (UTC-3)|
 |---|-----|
 |Start, Welcome to the event!|9:30-9:40|
 |IIBM Introduction|9:40-10|
