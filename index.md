@@ -25,7 +25,7 @@ A breakout room is a discussion room about presentations topics. Its uses are me
 ### Workshop proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
 
-Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants con join to available workshops during the networking.
+Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
 
 ## Schedule
 
