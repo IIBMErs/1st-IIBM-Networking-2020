@@ -20,7 +20,7 @@ The undergraduate format is a 1 slide 1 minute presentation.
 ### Breakout room proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
-A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and topic future. Breakout rooms will count with moderators that will stay in that room and other assistants can explore, join and stay in all available rooms. 
+A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and its future. Breakout rooms will count with moderators that will stay in that room and assistants that can explore, join and stay in all available rooms. 
 
 ### Workshop proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
