@@ -1,6 +1,9 @@
 ## Welcome to the 1st IIBM Networking 2020
 
+<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/iibm-negro.png" height="320" />
+
 The "1st IIBM Networking 2020" is an instance to know each others research and increase interdisciplinary colaborations. 
+
 
 ## Register
 
