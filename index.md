@@ -4,6 +4,11 @@
 
 The "1st IIBM Networking 2020" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on November 3rd virtually. 
 
+## Important dates
+
+Abstract/breakout/tutorial submission deadline: **October/23**
+
+Virtual event/stream: **November/03**
 
 ## Register
 
