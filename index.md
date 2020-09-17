@@ -41,7 +41,7 @@ Workshops will take place after the networking, and are really flexible being th
 |**Activity**|Time (UTC-3)|
 |---|-----|
 |Start, Welcome to the event!|9:30-9:40|
-|IIBM Introduction|9:40-10|
+|IIBM Introduction|9:40-10:00|
 |Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
 |Break|11:15-11:30|
 |Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
