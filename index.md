@@ -6,7 +6,7 @@ The "1st IIBM Networking 2020" is an instance to know each others research and i
 
 ## Important dates
 
-Abstract/breakout/tutorial submission deadline: **October/23**
+Abstract/breakout/workshop submission deadline: **October/23**
 
 Virtual event/stream: **November/03**
 
