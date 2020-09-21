@@ -46,7 +46,7 @@ Workshops will take place after the networking, and are really flexible being th
 |Break|11:15-11:30|
 |Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
 |Lunch|13:00-14:00|
-|Presentations block 3<br>(keynote speaker, postgraduate presentations)| 14:00-15:30|
+|Presentations Block 3<br>(keynote speaker, postgraduate presentations)| 14:00-15:30|
 |Break|15:30-15:45|
 |Parallel Breakout Rooms discussion groups 1|15:45-16:30|
 |Break|16:30-16:45|
