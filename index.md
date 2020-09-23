@@ -66,9 +66,11 @@ This networking is a Biological and Medical Engineering postgraduate students in
 
 <p align="center">
     <a href="https://twitter.com/IIBMErs_">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="23" />
     </a> 
     <a href="https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A?view_as=subscriber">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="23" />
     </a>
 </p>
+
+<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
