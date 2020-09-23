@@ -66,7 +66,7 @@ This networking is a Biological and Medical Engineering postgraduate students in
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="28" >
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="27" >
     </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
@@ -78,7 +78,6 @@ This networking is a Biological and Medical Engineering postgraduate students in
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/insta.png?raw=true" width="21" >
     </a>
     <a href="https://github.com/IIBMErs">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.png?raw=true" width="23" >
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.png?raw=true" width="22" >
     </a>
 </p>
-
