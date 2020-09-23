@@ -71,8 +71,6 @@ This networking is a Biological and Medical Engineering postgraduate students in
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="23" />
     </a> 
-<<<<<<< Updated upstream
-=======
     <a href="https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A?view_as=subscriber">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="31" />
     </a>
@@ -82,7 +80,4 @@ This networking is a Biological and Medical Engineering postgraduate students in
     <a href="https://github.com/IIBMErs">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.jpg?raw=true" width="23" >
     </a>
->>>>>>> Stashed changes
 </p>
-
-<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />    
