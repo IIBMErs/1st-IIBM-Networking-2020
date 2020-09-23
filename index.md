@@ -65,9 +65,24 @@ And will be public streamed and available via [IIBMErs YouTube channel]()
 This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering [IIBM](https://ingenieriabiologicaymedica.uc.cl/en/). You can contact us using GitHub issues.
 
 <p align="center">
+    <a href="mailto:networking.iibmers@gmail.com">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.jpg?raw=true" width="23" >
+    </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="23" />
     </a> 
+<<<<<<< Updated upstream
+=======
+    <a href="https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A?view_as=subscriber">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="31" />
+    </a>
+    <a href="https://www.instagram.com/iibmers/?hl=en">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/insta.jpg?raw=true" width="23" >
+    </a>
+    <a href="https://github.com/IIBMErs">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.jpg?raw=true" width="23" >
+    </a>
+>>>>>>> Stashed changes
 </p>
 
 <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />    
