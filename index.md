@@ -65,6 +65,9 @@ And will be public streamed and available via [IIBMErs YouTube channel]()
 This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering [IIBM](https://ingenieriabiologicaymedica.uc.cl/en/). You can contact us using GitHub issues.
 
 <p align="center">
+    <a href="mailto:networking.iibmers@gmail.com">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="28" >
+    </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
     </a> 
@@ -76,9 +79,6 @@ This networking is a Biological and Medical Engineering postgraduate students in
     </a>
     <a href="https://github.com/IIBMErs">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.png?raw=true" width="23" >
-    </a>
-    <a href="mailto:networking.iibmers@gmail.com">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="31" >
     </a>
 </p>
 
