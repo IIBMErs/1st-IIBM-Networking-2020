@@ -77,5 +77,8 @@ This networking is a Biological and Medical Engineering postgraduate students in
     <a href="https://github.com/IIBMErs">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.jpg?raw=true" width="23" >
     </a>
+    <a href="mailto:networking.iibmers@gmail.com">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.jpg?raw=true" width="23" >
+    </a>
 </p>
 
