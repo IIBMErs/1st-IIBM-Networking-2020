@@ -1,4 +1,4 @@
-# Welcome to the 1st IIBM Networking 2020
+## Welcome to the 1st IIBM Networking 2020
 
 <center><img src="https://raw.githubusercontent.com/IIBMErs/1st-IIBM-Networking-2020/master/images/iibm-negro.png" height="300"></center>
 
