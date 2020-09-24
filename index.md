@@ -32,8 +32,8 @@ Workshops will take place after the networking, and are really flexible being th
 
 |**Activity**|Time (GMT-3)|
 |---|-----|
-|Start, Welcome to the event!|9:30-9:40|
-|IIBM Introduction|9:40-10:00|
+|Welcome to the event!|9:30-9:40|
+|Introduction|9:40-10:00|
 |Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
 |Break|11:15-11:30|
 |Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
@@ -44,20 +44,20 @@ Workshops will take place after the networking, and are really flexible being th
 |Break|16:30-16:45|
 |Parallel Breakout Rooms discussion groups 2|16:45-17:30|
 |General breakout room and awards!|17:30-18:00|
-|Final words and Farewell|18:00-18:15|
+|Final words and farewell|18:00-18:15|
+
 </center>
 
 The schedule is tentative.
 
 ## Platforms
 
-The networking will take place virtually via [Zoom](https://zoom.us/).
-And will be public streamed and available via [IIBMErs YouTube channel]()
+The networking will take place virtually via [Zoom](https://zoom.us/) and will be publicly streamed via the [IIBMErs' YouTube channel]().
 
 
 ## Organizators
 
-This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering, Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means:
+This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering from Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means:
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
