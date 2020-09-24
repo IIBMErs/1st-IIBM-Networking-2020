@@ -70,7 +70,7 @@ This networking is an initiative from postgraduate students at the Institute for
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="27" >
+        :email: <!--<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="27" >-->
     </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
