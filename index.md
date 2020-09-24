@@ -52,7 +52,7 @@ The schedule is tentative.
 
 ## Platforms
 
-The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed via the [IIBMErs' YouTube channel]().
+The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed in the [IIBMErs' YouTube channel]().
 
 
 ## Organizators
