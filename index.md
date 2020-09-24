@@ -11,7 +11,7 @@ Virtual event: **November/03**
 ## Student registration
 
 | Undergraduate  | Postgraduate |  
-|---|---|
+|:---:|:---:|
 |[REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link) | [REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)  | 
 |The undergraduate format is a 1 slide 1 minute presentation. |The postgraduate format is a 3 slides 3 minutes presentation.|
 |You can download and use this [Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx) |You can download and use this [Template 3 slides pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)|
