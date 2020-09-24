@@ -1,6 +1,6 @@
 ## Description
 
-The "1st IIBM Networking 2020" is an instance for researchers to present their investigations to an interdisciplinary audience with the goal to foment collaborations between the assistants. 
+The "1st IIBM Networking 2020" is an instance for researchers to present their investigation results to an interdisciplinary audience. This event has the goal to foment the creation of connections and collaborations between the assistants. 
 
 ## Important dates
 
