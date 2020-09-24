@@ -62,7 +62,7 @@ The schedule is tentative.
 :round_pushpin: The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed in the [IIBMErs' YouTube channel]().
 
 
-## Organizators
+## Organizers
 
 This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering from Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means: 
 
