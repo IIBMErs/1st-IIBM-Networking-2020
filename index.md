@@ -28,6 +28,7 @@ Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRd
 Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
 
 ## Schedule
+<center>
 
 |**Activity**|Time (GMT-3)|
 |---|-----|
@@ -44,6 +45,7 @@ Workshops will take place after the networking, and are really flexible being th
 |Parallel Breakout Rooms discussion groups 2|16:45-17:30|
 |General breakout room and awards!|17:30-18:00|
 |Final words and Farewell|18:00-18:15|
+</center>
 
 The schedule is tentative.
 
