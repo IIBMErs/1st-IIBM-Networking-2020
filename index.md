@@ -66,11 +66,11 @@ The networking will be held virtually via [Zoom](https://zoom.us/) and also publ
 
 ## Organizators
 
-This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering from Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means:
+This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering from Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means: 
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
-        :email: <!--<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="27" >-->
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="27" >
     </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
