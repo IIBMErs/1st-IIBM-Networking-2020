@@ -4,9 +4,9 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 
 ## Important dates
 
-All submission deadlines: **October/23**
+ - All submission deadlines: **October/23**
 
-Virtual event: **November/03**
+ - Virtual event: **November/03**
 
 ## Student registration
 
