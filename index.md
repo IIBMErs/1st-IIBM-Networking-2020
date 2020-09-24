@@ -4,7 +4,7 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 
 ## Important dates
 
-Abstract/workshop submission deadline: **October/23**
+All submission deadlines: **October/23**
 
 Virtual event: **November/03**
 
@@ -24,6 +24,7 @@ The undergraduate format is a 1 slide 1 minute presentation.
 
 You can download and use this [Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx)
 
+## Proposals
 ### Breakout room proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
