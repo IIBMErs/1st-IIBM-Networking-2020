@@ -44,13 +44,13 @@ Discussion room topic proposal [form](https://docs.google.com/forms/d/e/1FAIpQLS
 |Welcome to the event! :confetti_ball:|9:30-9:40|
 |Introduction|9:40-10:00|
 |Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
-|Break|11:15-11:30|
+|**Break**|11:15-11:30|
 |Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
-|Lunch|13:00-14:00|
+|**Lunch**|13:00-14:00|
 |Presentations Block 3<br>(keynote speaker, postgraduate presentations)| 14:00-15:30|
-|Break|15:30-15:45|
+|**Break**|15:30-15:45|
 |Parallel Breakout Rooms discussion groups 1|15:45-16:30|
-|Break|16:30-16:45|
+|**Break**|16:30-16:45|
 |Parallel Breakout Rooms discussion groups 2|16:45-17:30|
 |General breakout room and awards! :trophy:|17:30-18:00|
 |Final words and farewell :wave:|18:00-18:15|
