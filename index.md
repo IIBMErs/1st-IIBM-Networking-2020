@@ -1,4 +1,11 @@
-| [Important dates](#important-dates) | [Student presentations](#student-presentations) | [Proposals](#proposals) | [Schedule](#schedule) |
+<table>
+<tr>
+  <td>[Important dates](#important-dates)</td>
+  <td>[Student presentations](#student-presentations)</td>
+  <td>[Proposals](#proposals) </td>
+  <td>[Schedule](#schedule)</td>
+</tr>
+</table>
 
 ## Description
 
