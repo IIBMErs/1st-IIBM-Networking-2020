@@ -31,7 +31,7 @@ Workshops will take place after the networking, and are really flexible being th
 
 
 |**Activity**|Time (GMT-3)|
-|---|-----|
+|---|:-----:|
 |Welcome to the event!|9:30-9:40|
 |Introduction|9:40-10:00|
 |Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
