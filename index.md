@@ -27,18 +27,16 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 |[REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link) | [REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)  | 
 
 ## Proposals
+### Workshops
+Workshops will take place after the networking and are organized entirely by the speaker. Therefore, this instances are very flexible and can vary in subject and duration. The available workshops will be announced during the networking so the interested people can join.
+
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link).
+
 ### Discussion rooms
+A discusison room is an instance to ask questions about the presentations in an informal and relaxed manner. This will be held in Zoom breakout rooms, in which the participants join. Each room will have a moderator, and the participang can choose to stay or to switch to any of the available rooms. 
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
-A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and its future. Breakout rooms will count with moderators that will stay in that room and assistants that can explore, join and stay in all available rooms. 
-
-### Workshops
-Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
-
-Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
-
 ## Schedule
-
 
 |**Activity**|Time (GMT-3)|
 |---|:-----:|
@@ -56,12 +54,11 @@ Workshops will take place after the networking, and are really flexible being th
 |General breakout room and awards!|17:30-18:00|
 |Final words and farewell|18:00-18:15|
 
-
 The schedule is tentative.
 
 ## Platforms
 
-The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed in the [IIBMErs' YouTube channel]().
+:round_pushpin: The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed in the [IIBMErs' YouTube channel]().
 
 
 ## Organizators
