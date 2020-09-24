@@ -1,5 +1,4 @@
-<center>
-<table>
+<table align="center">
 <tr>
   <td>[Important dates](#important-dates)</td>
   <td>[Student presentations](#student-presentations)</td>
@@ -7,7 +6,6 @@
   <td>[Schedule](#schedule)</td>
 </tr>
 </table>
-</center>
 
 ## Description
 
