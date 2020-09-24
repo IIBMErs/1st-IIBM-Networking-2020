@@ -1,4 +1,4 @@
-[Important dates](#important-dates); [Student presentations](#student-presentations) ; [Proposals](#proposals); [Schedule](#schedule)
+| [Important dates](#important-dates) | [Student presentations](#student-presentations) | [Proposals](#proposals) | [Schedule](#schedule) |
 
 ## Description
 
