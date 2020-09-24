@@ -21,7 +21,7 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 
 | Undergraduate  | Postgraduate |  
 |:---:|:---:|
-|1 slide presentation (1 minute)<br>[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx)|3 slides presentation (3 minutes)<br>[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)|
+|1 slide presentation<br>[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx)<br> 1 minute|3 slides presentation<br>[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)<br>3 minutes|
 |[REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link) | [REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)  | 
 
 ## Proposals
