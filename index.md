@@ -30,12 +30,12 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 ### Workshops
 Workshops will take place after the networking and are organized entirely by the speaker. Therefore, this instances are very flexible and can vary in subject and duration. The available workshops will be announced during the networking so the interested people can join.
 
-To organize a workshop, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link).
+To organize a workshop please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link).
 
 ### Discussion rooms
 Discussion rooms are an instance to ask questions about the presentations in an informal and relaxed manner. These will be held in Zoom breakout rooms. Each room will have a moderator, and the participants can choose to stay or to switch to any of the available rooms. 
 
-Discussion room topic proposal [form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link).
+To suggest a discussion topic please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link).
 
 ## Schedule
 
