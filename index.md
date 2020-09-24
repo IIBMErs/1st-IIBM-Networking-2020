@@ -57,9 +57,7 @@ And will be public streamed and available via [IIBMErs YouTube channel]()
 
 ## Organizators
 
-This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering [IIBM](https://ingenieriabiologicaymedica.uc.cl/en/). You can contact us using GitHub issues.
-
-
+This networking is an initiative from postgraduate students at the Institute for Biological and Medical Engineering, Pontificia Católica de Chile ([IIBM](https://ingenieriabiologicaymedica.uc.cl/en/)). You can contact us by any of the following means:
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
