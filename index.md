@@ -1,10 +1,10 @@
 <center>
 <table>
 <tr>
-  <td><a href="#important-dates">Important dates :tada:</a></td>
-  <td><a href="#student-presentations">Student presentations</a></td>
-  <td><a href="#proposals">Proposals</a></td>
-  <td><a href="#schedule">Schedule</a></td>
+  <td><a href="#important-dates">Important dates :exclamation:</a></td>
+  <td><a href="#student-presentations">Student presentations :bowtie:</a></td>
+  <td><a href="#proposals">Proposals :mortar_board:</a></td>
+  <td><a href="#schedule">Schedule :alarm_clock:</a></td>
 </tr>
 </table>
 </center>
