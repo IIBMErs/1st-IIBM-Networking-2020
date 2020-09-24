@@ -14,7 +14,7 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 |:---:|:---:|
 |[REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSdQiyXymsQbQ9u8FVLNob-Iz9Yd72xhXDHhAljhp5QQ1xj1Pw/viewform?usp=sf_link) | [REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)  | 
 |1 slide / 1 minute presentation. |3 slides/ 3 minutes presentation.|
-|[Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx) |[Template 3 slides pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)|
+|[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx) |[Template](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)|
 
 ## Proposals
 ### Discussion rooms
@@ -51,7 +51,7 @@ The schedule is tentative.
 
 ## Platforms
 
-The networking will take place virtually via [Zoom](https://zoom.us/) and will be publicly streamed via the [IIBMErs' YouTube channel]().
+The networking will be held virtually via [Zoom](https://zoom.us/) and also publicly streamed via the [IIBMErs' YouTube channel]().
 
 
 ## Organizators
