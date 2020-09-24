@@ -1,7 +1,7 @@
 <center>
 <table>
 <tr>
-  <td><a href="#important-dates">Important dates</a></td>
+  <td><a href="#important-dates">Important dates :tada:</a></td>
   <td><a href="#student-presentations">Student presentations</a></td>
   <td><a href="#proposals">Proposals</a></td>
   <td><a href="#schedule">Schedule</a></td>
