@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td><a href="#important-dates">Important dates</a></td>
-  <td>[Student presentations](#student-presentations)</td>
-  <td>[Proposals](#proposals)</td>
-  <td>[Schedule](#schedule)</td>
+  <td><a href="#student-presentations">Student presentations</a></td>
+  <td><a href="#proposals">Proposals</a></td>
+  <td><a href="#schedule">Schedule</a></td>
 </tr>
 </table>
 </center>
