@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome to the 1st IIBM Networking!
-description: 3 NOVEMBER 2020
+description: 3 NOVEMBER 2020 <br><img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/iibm-color.png?raw=true" width="500">
 github:
   is_project_page: false
 plugins:
