@@ -1,9 +1,9 @@
 <center>
 <table>
 <tr>
-  <td><a href="#important-dates">:date:Important dates</a></td>
-  <td><a href="#student-presentations">:mortar_board:Student presentations</a></td>
-  <td><a href="#proposals">:busts_in_silhouette:Proposals</a></td>
+  <td><a href="#important-dates">:date: Important dates</a></td>
+  <td><a href="#student-presentations">:mortar_board: Student presentations</a></td>
+  <td><a href="#proposals">:busts_in_silhouette: Proposals</a></td>
   <td><a href="#schedule">:alarm_clock: Schedule</a></td>
 </tr>
 </table>
