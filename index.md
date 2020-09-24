@@ -17,12 +17,12 @@ Virtual event: **November/03**
 |You can download and use this [Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx) |You can download and use this [Template 3 slides pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)|
 
 ## Proposals
-### Breakout room proposal
+### Discussion rooms
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
 A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and its future. Breakout rooms will count with moderators that will stay in that room and assistants that can explore, join and stay in all available rooms. 
 
-### Workshop proposal
+### Workshops
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
 
 Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
