@@ -1,5 +1,3 @@
-[Important dates](#important-dates); [Student presentations](#student-presentations) ; [Proposals](#proposals); [Schedule](#schedule)
-
 ## Description
 
 The "1st IIBM Networking 2020" is an instance for researchers to present their investigations to an interdisciplinary audience with the goal to foment collaborations between the assistants. 
