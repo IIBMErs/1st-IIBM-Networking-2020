@@ -1,5 +1,7 @@
 <center>
+ 
 [Important dates](#important-dates); [Student presentations](#student-presentations) ; [Proposals](#proposals); [Schedule](#schedule)
+
 </center>
 ## Description
 
