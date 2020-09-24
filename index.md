@@ -84,5 +84,6 @@ This networking is an initiative from postgraduate students at the Institute for
     </a>
 </p>
 
-<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/iibm-color.png?raw=true" width="500">
-
+<center>
+<img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/iibm-color.png?raw=true" width="300">
+</center>
