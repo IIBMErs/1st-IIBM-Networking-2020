@@ -49,9 +49,9 @@ To suggest a discussion topic please fill this [form](https://docs.google.com/fo
 |---|:-----:|
 |Welcome to the event! :confetti_ball:|9:30-9:40|
 |Introduction|9:40-10:00|
-|Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
+|Presentations Block 1<br>(keynote speaker (María Rodríguez) and postgraduate presentations)|10:00-11:15|
 |**Break**|11:15-11:30|
-|Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
+|Presentations Block 2<br>(keynote speakers (Vicente Parot, Francisco  Sahli), postgraduate and undergraduate presentations)|11:30-13:00|
 |**Lunch**|13:00-14:00|
 |Presentations Block 3<br>(keynote speaker, postgraduate presentations)| 14:00-15:30|
 |**Break**|15:30-15:45|
