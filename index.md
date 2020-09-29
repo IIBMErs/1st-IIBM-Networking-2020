@@ -19,6 +19,12 @@ The "1st IIBM Networking 2020" is an instance for researchers to present their i
 
  - Virtual event: **November/03**
 
+## Be a Networker!
+
+To participate without presenting [REGISTER!](https://docs.google.com/forms/d/e/1FAIpQLSf8pZyI7lL4gW7tDGXcgVtoJ1FxgdTYxRhqsfLMl5ztcu0XjA/viewform?usp=sf_link)
+
+Remember that you can make questions through the stream, be part of breaking rooms and incribe workshops!
+
 ## Student presentations
 
 | Undergraduate  | Postgraduate |  
