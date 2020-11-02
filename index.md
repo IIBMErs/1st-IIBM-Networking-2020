@@ -49,11 +49,11 @@ To suggest a discussion topic please fill this [form](https://docs.google.com/fo
 |---|:-----:|
 |Welcome to the event! :confetti_ball:|9:30-9:40|
 |Introduction|9:40-10:00|
-|Presentations Block 1<br>(keynote speaker [[María Rodríguez](https://scholar.google.com/citations?hl=es&user=AIo0lxYAAAAJ)] and postgraduate presentations)|10:00-11:15|
+|Presentations Block 1<br>(keynote speaker [[María Rodríguez](https://scholar.google.com/citations?hl=es&user=AIo0lxYAAAAJ) "Mathematical and Computational Tools for Understanding Biomedical Data"] and postgraduate presentations)|10:00-11:15|
 |**Break**|11:15-11:30|
-|Presentations Block 2<br>(keynote speakers [[Vicente Parot](https://scholar.google.com/citations?hl=es&user=RiMA-zwAAAAJ), [Francisco  Sahli](https://scholar.google.com/citations?hl=es&user=9wRFbcEAAAAJ)], postgraduate and undergraduate presentations)|11:30-13:00|
+|Presentations Block 2<br>(keynote speakers [[Vicente Parot](https://scholar.google.com/citations?hl=es&user=RiMA-zwAAAAJ) "To be announced", [Francisco  Sahli](https://scholar.google.com/citations?hl=es&user=9wRFbcEAAAAJ) “Physics-informed neural networks for cardiac activation mapping], postgraduate and undergraduate presentations)|11:30-13:00|
 |**Lunch**|13:00-14:00|
-|Presentations Block 3<br>(keynote speaker[[Tobias Wenzel](https://scholar.google.com/citations?hl=es&user=41v3inwAAAAJ)], postgraduate presentations)| 14:00-15:30|
+|Presentations Block 3<br>(keynote speaker[[Tobias Wenzel](https://scholar.google.com/citations?hl=es&user=41v3inwAAAAJ)"Single Cell Analysis with Microfluidic Droplets"], postgraduate presentations)| 14:00-15:30|
 |**Break**|15:30-15:45|
 |Parallel Breakout Rooms discussion groups 1|15:45-16:30|
 |**Break**|16:30-16:45|
