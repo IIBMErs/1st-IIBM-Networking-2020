@@ -66,7 +66,7 @@ This networking is a Biological and Medical Engineering postgraduate students in
 
 <p align="center">
     <a href="mailto:networking.iibmers@gmail.com">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.jpg?raw=true" width="23" >
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="23" >
     </a>
     <a href="https://twitter.com/IIBMErs_">
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
@@ -75,9 +75,9 @@ This networking is a Biological and Medical Engineering postgraduate students in
         <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="31" />
     </a>
     <a href="https://www.instagram.com/iibmers/?hl=en">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/insta.jpg?raw=true" width="27" >
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/insta.png?raw=true" width="27" >
     </a>
     <a href="https://github.com/IIBMErs">
-        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.jpg?raw=true" width="21" >
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.png?raw=true" width="21" >
     </a>
 </p>
